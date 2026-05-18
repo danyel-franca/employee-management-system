@@ -119,3 +119,6 @@ The system supports complete CRUD operations for employees:
 - Read employee data
 - Update employee information
 - Delete employees
+
+## Author
+Developed by Danyel França
